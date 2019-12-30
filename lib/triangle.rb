@@ -68,6 +68,6 @@ class Triangle
 
 end
 
-# class RangeError < StandardError
+class RangeError < StandardError
 
 end
